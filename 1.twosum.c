@@ -19,3 +19,4 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
     }
     return a;//必须有
 }
+//暴力破解，两层for循环
